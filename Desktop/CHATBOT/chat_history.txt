@@ -1,0 +1,24 @@
+You: hi gemini
+Gemini: Hi there! How can I help you today?
+
+
+You: hii are you ready to give answer for any thing i ask
+Gemini: I'll do my best to answer any question you ask, but please keep in mind that my knowledge is limited.  I'm a large language model, and I don't have personal experiences or access to real-time information.  I can provide information based on the data I was trained on, but my responses may not always be completely accurate or up-to-date.  Ask away!
+
+
+You: whats your last updated date
+Gemini: My knowledge cutoff is **September 2021**.  That means I don't have information about events or developments that happened after that date.
+
+
+You: oho very good
+Gemini: Is there anything I can help you with now?
+
+
+You: no if i want anything i will ask you thank you
+Gemini: You're welcome!  Just let me know if you have any questions.
+
+
+You: hello gemini
+Gemini: Hello there! How can I assist you today?
+
+
